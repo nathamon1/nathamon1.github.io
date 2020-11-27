@@ -3,5 +3,5 @@
 * บ้านเกิด จ.นครสวรรค์ 
 * ชอบกินข้าวมันไก่ทอด พิซซ่า อารมณ์ดีตลอดเวลา 
 
-
-Format: ![Alt Text](https://sites.google.com/site/ceahmirilakkuma/prawati-rilakkuma)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://sites.google.com/site/ceahmirilakkuma/_/rsrc/1479781951505/prawati-rilakkuma/transparentrilakkuma.png)
